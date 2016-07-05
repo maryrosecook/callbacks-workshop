@@ -66,7 +66,7 @@ Follow the process for understanding the flow of control that we used in the dem
 
 ### Question 1
 
-`console.log` a number in each part of the code.  Run the code.  The numbers should be logged in order: 1, 2, 3, 4... If they aren't follow the flow of control to figure out why.  Correct the `console.log`s.
+`console.log` a number in each part of the code.  Run the code.  The numbers should be logged in order: 1, 2, 3, 4... If they aren't, follow the flow of control to figure out why.  Correct the `console.log`s.
 
 Now fix the code.  It should print out the mouse click event object when the mouse is clicked.
 
@@ -82,7 +82,7 @@ console.log("Mouse click event object:", clickEvent);
 
 ### Question 2
 
-`console.log` a number in each part of the code.  Run the code.  The numbers should be logged in order: 1, 2, 3, 4... If they aren't follow the flow of control to figure out why.  Correct the `console.log`s.
+`console.log` a number in each part of the code.  Run the code.  The numbers should be logged in order: 1, 2, 3, 4... If they aren't, follow the flow of control to figure out why.  Correct the `console.log`s.
 
 ```js
 $.get("https://async-workshops-api.herokuapp.com/people", function(peopleResponse) {
@@ -92,7 +92,7 @@ $.get("https://async-workshops-api.herokuapp.com/people", function(peopleRespons
 
 ### Question 3
 
-`console.log` a number in each part of the code.  Run the code.  The numbers should be logged in order: 1, 2, 3, 4... If they aren't follow the flow of control to figure out why.  Correct the `console.log`s.
+`console.log` a number in each part of the code.  Run the code.  The numbers should be logged in order: 1, 2, 3, 4... If they aren't, follow the flow of control to figure out why.  Correct the `console.log`s.
 
 Now fix the code.  It should print out the people returned by the API.
 
@@ -108,7 +108,7 @@ console.log(people);
 
 ### Question 4
 
-`console.log` a number in each part of the code.  Run the code.  The numbers should be logged in order: 1, 2, 3, 4... If they aren't follow the flow of control to figure out why.  Correct the `console.log`s.
+`console.log` a number in each part of the code.  Run the code.  The numbers should be logged in order: 1, 2, 3, 4... If they aren't, follow the flow of control to figure out why.  Correct the `console.log`s.
 
 Now fix the code.  It should print out the people returned by the API.
 
@@ -124,7 +124,7 @@ console.log(getPeople());
 
 ### Question 5
 
-`console.log` a number in each part of the code.  Run the code.  The numbers should be logged in order: 1, 2, 3, 4... If they aren't follow the flow of control to figure out why.  Correct the `console.log`s.
+`console.log` a number in each part of the code.  Run the code.  The numbers should be logged in order: 1, 2, 3, 4... If they aren't, follow the flow of control to figure out why.  Correct the `console.log`s.
 
 This code is incomplete.  It should print the names of the people returned by the API.  Try and complete it.
 
@@ -140,7 +140,7 @@ $.get("https://async-workshops-api.herokuapp.com/people");
 
 ### Question 6
 
-`console.log` a number in each part of the code.  Run the code.  The numbers should be logged in order: 1, 2, 3, 4... If they aren't follow the flow of control to figure out why.  Correct the `console.log`s.
+`console.log` a number in each part of the code.  Run the code.  The numbers should be logged in order: 1, 2, 3, 4... If they aren't, follow the flow of control to figure out why.  Correct the `console.log`s.
 
 (This code is not broken.)
 
